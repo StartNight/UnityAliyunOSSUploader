@@ -1,0 +1,2 @@
+# UnityAliyunOSSUploader
+在unity3d的Editor窗口中可以使用的阿里云oss上传资源功能;
